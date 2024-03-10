@@ -31,7 +31,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 </p>
 <p>
-After creating roles, teams, departments and creating tickets as the administrator I am now going in to view and resolve/escalate the tickets as needed.
+After creating roles, teams, departments and creating tickets as the administrator I am now going in as the user to view and resolve/escalate the tickets as needed.
 </p>
 <br />
 
