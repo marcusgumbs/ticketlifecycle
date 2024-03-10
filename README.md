@@ -41,7 +41,7 @@ After creating roles, teams, departments and creating tickets as the administrat
 
 </p>
 <p>
- This is a view of the tickets before I went in and adjusted the SLAs and assigned them to departments and teams.
+ The ticketing queue before going in and adjusting the SLAs and assigning tickets to the appropriate departments and teams.
 </p>
 <br />
 
