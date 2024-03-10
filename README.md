@@ -50,6 +50,6 @@ After creating roles, teams, departments and creating tickets as the administrat
 
 </p>
 <p>
-After the tickets were viewed and assigned to different users I then logged in as those users to resolve tickets.
+After the tickets were viewed and assigned to different users I then logged in as those users to resolve/escalate those tickets as needed.
 </p>
 <br />
