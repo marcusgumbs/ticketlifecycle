@@ -31,12 +31,13 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 </p>
 <p>
-After cretaing roles, teams, departments and creating tickets as the administrator I am now going in to view and resolve/escalate the tickets as needed.
+After creating roles, teams, departments and creating tickets as the administrator I am now going in to view and resolve/escalate the tickets as needed.
 </p>
 <br />
 
 <p>
-<img width="446" alt="Screenshot 2024-03-06 195627" src="https://github.com/marcusgumbs/ticketlifecycle/assets/162270050/80249729-3895-4c9a-8a42-d2fcd344a025">
+<<img width="446" alt="Screenshot 2024-03-06 195627" src="https://github.com/marcusgumbs/ticketlifecycle/assets/162270050/8853f5ed-93e7-4b32-af20-2bb7438bdf40">
+>
 
 </p>
 <p>
